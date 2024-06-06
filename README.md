@@ -70,4 +70,6 @@ This class is responsible for creating and managing the GUI using Java Swing. It
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+---
+
 This README file provides an overview and setup instructions for the Rock Paper Scissors Game. If you have any questions or need further assistance, feel free to reach out. Enjoy playing the game!
