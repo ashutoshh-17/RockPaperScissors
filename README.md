@@ -32,13 +32,12 @@ To get a local copy up and running, follow these steps.
 
 ### Usage
 
-1. Compile the Java files.
+#### Running the Executable JAR File
+
+1. Ensure you have Java Runtime Environment (JRE) installed.
+2. Run the JAR file.
    ```sh
-   javac src/com/example/rockpaperscissors/*.java
-   ```
-2. Run the game.
-   ```sh
-   java -cp src com.example.rockpaperscissors.Main
+   java -jar RockPaperScissorsGame.jar
    ```
 
 ## Files
